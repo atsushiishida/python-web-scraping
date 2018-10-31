@@ -1,0 +1,2 @@
+scrapy runspider --loglevel=WARN -t csv -o - spiders/complex.py 
+
